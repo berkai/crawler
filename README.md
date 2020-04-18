@@ -1,5 +1,5 @@
 # crawler
-Crawler for a specific web site and show directory tree from terminal and a html file. Also save urls in a csv file.
+Crawler for a specific web site and shows the site map with directory tree from terminal and a html file. Also save urls in a csv file.
 
 First clone project:
 
