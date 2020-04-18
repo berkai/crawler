@@ -23,3 +23,7 @@ Go to the ```script``` directory:
 Finally run the script via:
 
 ```python multithread_url_scraper.py```
+
+Crawling takes less than a minute. It will depends with your internet connection.
+
+![Screenshot from 2020-04-18 05-04-06](https://user-images.githubusercontent.com/20394555/79625530-6620e080-8132-11ea-9260-7ba16f2523cd.png)
