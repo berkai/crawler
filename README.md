@@ -15,6 +15,8 @@ Install the dependicies:
 
 ```pip install requirements.txt```
 
+```sudo apt-get install tree```
+
 Go to the ```script``` directory:
 
 ```cd script```
