@@ -13,7 +13,7 @@ Create and open a virtual environment:
 
 Install the dependicies:
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 ```sudo apt-get install tree```
 
